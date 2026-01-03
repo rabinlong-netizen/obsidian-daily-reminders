@@ -1,0 +1,7 @@
+{
+  "reminderDocPath": "antitest/备忘日期.md",
+  "dailyNoteFolder": "journals",
+  "triggerTime": "06:00",
+  "lastCheckDate": "2026-01-03",
+  "insertHeader": "## 📅 今日提醒"
+}
